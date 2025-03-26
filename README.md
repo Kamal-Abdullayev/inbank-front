@@ -4,6 +4,8 @@ This project is a frontend application for the InBank loan application service.
 It is built using Flutter and communicates with the backend API to
 display loan options and handle loan applications.
 
+P.S. This project is in a public repo because it was requested to be shared publicly
+
 ## Technologies Used
 - Flutter 3.19.5
 - Dart 3.3.3
